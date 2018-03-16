@@ -1,1 +1,6 @@
-blablalbla
+git branch -- muestra las ramas
+git branch -r --muestra las ramas remotas
+git branch -a --muestra las tanto locales como remotas
+git branch <name> -- crea una rama con el nombre
+git checkout nobredelarama -- para cambiarse de rama
+
